@@ -1,0 +1,12 @@
+.jogo-detalhes {
+    text-align: center;
+    padding: 20px;
+    color: white;
+  }
+  
+  .jogo-capa, .jogo-gameplay {
+    max-width: 80%;
+    margin: 10px 0;
+    border-radius: 8px;
+  }
+  
